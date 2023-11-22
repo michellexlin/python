@@ -1,2 +1,2 @@
 # python
-various python projects
+brusselator: simulator of brussels oscillator
