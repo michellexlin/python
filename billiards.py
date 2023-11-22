@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+#Name: Michelle Lin, ENGR 1050, Homework 8, Spring 2023
+#Collaborators: None
+#Program Description: Simulation of billiards
+
+>>>>>>> 7c07a026e30db8fc18b855581728a673a92d9ac4
 #import modules
 import numpy as np
 import matplotlib.pyplot as plt
