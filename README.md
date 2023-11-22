@@ -1,4 +1,6 @@
 # python
-brusselator: simulator of brussels oscillator
-billiards: simulator of billiard table
-bisection: find zeros with bisection method
+__brusselator:__ simulator of brussels oscillator
+
+__billiards:__ simulator of billiard table
+
+__bisection:__ find zeros with bisection method
