@@ -6,3 +6,5 @@ __billiards:__ simulator of billiard table
 __bisection:__ find zeros with bisection method
 
 __trackBall:__ track ball position from video
+
+__seir_integrate__: predict disease spread with seir model
